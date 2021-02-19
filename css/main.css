@@ -8,3 +8,42 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
 }
+
+.container{
+    height: 100px;
+    background-color: #00a48d;
+}
+
+
+.container:nth-child(2){
+    background-color: aquamarine;
+}
+
+.clearfix::after{
+    content:'';
+    display:table;
+    clear:both;
+}
+
+.float-left {
+    float: left;
+}
+
+.w-50{
+    width: 50%;
+}
+
+.main-header {
+    text-transform: uppercase;
+    font-size: 12px;
+    line-height: 50px;
+}
+  
+
+.logo {
+    width: 15%;
+    margin: 30px 0px 15px 200px;
+}
+
+.main-header .logo {
+    vertical-align: middle;
