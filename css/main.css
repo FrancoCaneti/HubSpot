@@ -84,7 +84,7 @@ body{
 
 .container2{
     height:100px;
-    background-color: white;
+    background-color: rgb(255, 255, 240);
    
 }
 
@@ -95,4 +95,15 @@ body{
     margin-right: 470px;
     text-align: center;
     float:left;
+}
+
+/*Jumbotron*/
+
+
+.jumbotron{
+    height: 800px;
+    background-image: url(../img-hubspot/jumbotron.png);
+    background-size: 1600px;
+    background-repeat: no-repeat;
+
 }
