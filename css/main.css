@@ -11,25 +11,14 @@ body{
 /*Prima Barra*/
 .container{
     height: 100px;
-    background-color: #39c5a9;
 }
 
-i{
-    display: inline;
+.float-left{
+    float: left;
 }
 
-
-    li{
-        display:inline-block;
-        list-style: none;
-        margin-right: 10;
-    }
-
-li:first-child{
-    padding-top: 20px;
-    padding-left: 200px;
-}
-
-li:last-child{
-    margin-left: 10px;
+.main-header{
+        line-height: 100px;
+        background-color: aqua;
+        
 }
