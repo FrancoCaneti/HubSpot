@@ -8,42 +8,28 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
 }
-
+/*Prima Barra*/
 .container{
     height: 100px;
-    background-color: #00a48d;
+    background-color: #39c5a9;
+}
+
+i{
+    display: inline;
 }
 
 
-.container:nth-child(2){
-    background-color: aquamarine;
+    li{
+        display:inline-block;
+        list-style: none;
+        margin-right: 10;
+    }
+
+li:first-child{
+    padding-top: 20px;
+    padding-left: 200px;
 }
 
-.clearfix::after{
-    content:'';
-    display:table;
-    clear:both;
+li:last-child{
+    margin-left: 10px;
 }
-
-.float-left {
-    float: left;
-}
-
-.w-50{
-    width: 50%;
-}
-
-.main-header {
-    text-transform: uppercase;
-    font-size: 12px;
-    line-height: 50px;
-}
-  
-
-.logo {
-    width: 15%;
-    margin: 30px 0px 15px 200px;
-}
-
-.main-header .logo {
-    vertical-align: middle;
