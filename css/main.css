@@ -20,7 +20,7 @@ body{
 .main-header { 
 
         line-height: 100px;
-        background-color: aqua;   
+        background-color: #eaf0f6;   
 }
  
  .nav{
@@ -42,5 +42,39 @@ body{
     display: inline-block;
     list-style: none;
 }
-    
+
+.btn {
+    display:inline-block;
+    max-width: 150px;
+    max-height: 40px;
+    background-color:white ;
+    padding:10px;
+    text-decoration: none;
+    text-align: center; 
+    border: 1px solid #ff7a59;
+    color: #ff7a59;
+    border-radius: 5%;
+}
+.btn2 {
+    display:inline-block;
+    max-width: 150px;
+    max-height: 40px;
+    background-color:#ff7a59 ;
+    padding:10px;
+    text-decoration: none;
+    text-align: center; 
+    border: 1px solid #ff7a59;
+    color: #fffdfd;
+    border-radius: 5%;
+}
+
+
+
+.main-header a.btn {
+    line-height: 12px;
+}
+
+.main-header a.btn2{
+    line-height: 12px;
+}
 
