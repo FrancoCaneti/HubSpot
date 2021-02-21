@@ -54,6 +54,7 @@ body{
     border: 1px solid #ff7a59;
     color: #ff7a59;
     border-radius: 5%;
+    margin-left: 10px;
 }
 .btn2 {
     display:inline-block;
@@ -79,3 +80,18 @@ body{
     line-height: 12px;
 }
 
+/*Seconda Barra*/
+
+.container2{
+    height:100px;
+    background-color: rgb(255, 253, 241);
+}
+
+.logo{
+    position: relative;
+    padding-left:20%;
+    padding-top: 30px;
+    margin-right: 470px;
+    text-align: center;
+    float:left;
+}
