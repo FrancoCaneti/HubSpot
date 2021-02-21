@@ -19,6 +19,19 @@ body{
 
 .main-header{
         line-height: 100px;
-        background-color: aqua;
-        
+        background-color: aqua;   
+}
+ 
+ .nav{
+    padding-left: 20%;
+}
+.nav:nth-child(2){
+    padding-left: 0%;
+}
+.nav:nth-child(3){
+    padding-left: 0%;
+}
+.nav:nth-child(4){
+    padding-left: 0%;
+    padding-left: 20px;
 }
