@@ -165,12 +165,47 @@ body{
 
   .mid{
       height: 300px;
-      background-color: rgb(68, 196, 29);
+      background-color: #f5f8fa;
   }
 
   .box{
-    width: 600px;
-    height: 200px;
-    margin: 0px 30% 0 30%;
+    width: 1200px;
+    height: 300px;
+    margin: 0 170px;
     background-color: white;
+    border: 1px solid #f2f6f9;
+    border-radius: 3%;
   }
+
+  .box.clearfix{
+      overflow: auto;
+  }
+
+  .libro{
+    position: relative;
+    top: 10px;
+    padding-left: 5%;
+    padding-top: 5px;
+    margin-right: 200px;
+    text-align: center;
+    float: left;
+    height: 150px;
+  }
+.btn3{
+    position:relative;
+    top: 200px;
+    right: 365px;
+    display:inline-block;
+    max-width: 150px;
+    max-height: 40px;
+    background-color:#ff7a59 ;
+    padding:10px;
+    text-decoration: none;
+    text-align: center; 
+    border: 1px solid #ff7a59;
+    color: #fffdfd;
+    border-radius: 5%;
+    margin-left: 10px;
+    float: left;
+}
+ 
