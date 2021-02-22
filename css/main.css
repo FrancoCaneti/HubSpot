@@ -243,3 +243,28 @@ body{
  .orizont:last-child{
      margin-top: 35px;
  }
+
+ .col1{
+    float: left;
+    width: 25%;
+    height: 500px;
+    margin: 40px 10px 0px 175px;
+    margin-bottom: 20px;
+    background-color: rgb(255, 255, 255);
+ }
+ .col2{
+    float: left;
+    width: 25%;
+    height: 500px;
+    margin: 40px 20px 0px 20px;;
+    margin-bottom: 20px;
+    background-color: rgb(255, 255, 255);
+ }
+ .col3{
+    float: left;
+    width: 25%;
+    height: 500px;
+    margin:40px 0px 0 10px;
+    margin-bottom: 20px;
+    background-color: rgb(255, 255, 255);
+ }
