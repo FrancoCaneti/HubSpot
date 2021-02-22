@@ -136,12 +136,26 @@ body{
  /*Main*/
  
  .container3{
-     height: 1200px;
-     background-color: aquamarine;
+     height: 340px;
+     background-color: #f5f8fa;
  }
+ .cubo {
+     height:200px;
+     width: 275px;
+     margin-left:40%;
+     margin-top:10px
+ }
+  h1.cubo{
+    text-align: center;
+    width: 400px;
+    max-height: 50px;
+    margin-left: 35%;
+    margin-top: 10px;
+  }
 
- .cubo{
-     height:250px;
-     width: 300px;
-     margin-left:40%
- }
+  h4.cubo{
+    text-align: center;
+    width: 600px;
+    margin-left: 30%;
+    font-size: 12px;
+  }
