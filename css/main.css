@@ -88,7 +88,7 @@ body{
 
 .container2{
     height:100px;
-    background-color: rgb(255, 255, 240);
+    background-color: rgb(255, 255, 238);
    
 }
 
@@ -136,7 +136,7 @@ body{
  /*Main*/
  
  .container3{
-     height: 340px;
+     height: 360px;
      background-color: #f5f8fa;
  }
  .cubo {
@@ -159,4 +159,18 @@ body{
     max-height: 30px;
     margin-left: 27%;
     font-size: 12px;
+  }
+
+  /*Centro*/
+
+  .mid{
+      height: 300px;
+      background-color: rgb(68, 196, 29);
+  }
+
+  .box{
+    width: 600px;
+    height: 200px;
+    margin: 0px 30% 0 30%;
+    background-color: white;
   }
