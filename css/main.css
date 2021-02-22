@@ -88,7 +88,7 @@ body{
 
 .container2{
     height:100px;
-    background-color: rgb(255, 255, 238);
+    background-color: rgb(255, 255, 255);
    
 }
 
@@ -264,6 +264,7 @@ body{
     background-color: rgb(255, 255, 255);
     border: 1px solid #f2f6f9;
     border-radius: 3%;
+    text-align: center;
     
  }
  .col3{
@@ -275,17 +276,20 @@ body{
     background-color: rgb(255, 255, 255);
     border: 1px solid #f2f6f9;
     border-radius: 3%;
+    text-align: center;
  }
 
 .col-img{
     height: 150px;
     width: 150px;
     margin-top: 20px;
-    margin-left: 120px;
+    margin-left: 25px;
     margin-bottom: 20px;
 }
 .li-col{
+    text-align: initial;
     list-style: none;
+    margin-left: 40px;
     
 }
 
@@ -310,4 +314,18 @@ body{
     width: 160px;
     margin-left: -635px;
     margin-top: 55px;
+}
+.btn-col{
+    position: relative;
+    top: 35px;
+    max-width: 149px;
+    max-height: 40px;
+    background-color: #ff7a59;
+    padding: 15px;
+    text-decoration: none;
+    text-align: center;
+    border: 1px solid #ff7a59;
+    color: #fffdfd;
+    border-radius: 5%;
+    margin-left: 10px;
 }
