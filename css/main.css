@@ -155,7 +155,8 @@ body{
 
   h4.cubo{
     text-align: center;
-    width: 600px;
-    margin-left: 30%;
+    width: 705px;
+    max-height: 30px;
+    margin-left: 27%;
     font-size: 12px;
   }
