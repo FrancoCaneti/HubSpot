@@ -101,6 +101,10 @@ body{
     float:left;
 }
 
+.lista{
+    margin-right:10px;
+}
+
 /*Jumbotron*/
 
 
@@ -211,4 +215,31 @@ body{
  .fa-check-circle {
      color: #ff7a59;
      background-color: white;
+ }
+
+ .orizont{
+    margin-left: 460px;
+    display: block;
+    margin-top: 28px;
+    text-align: initial;
+ }
+
+  .btn3 .orizont:first-child{
+     margin-bottom: 10px;
+ }
+
+ hr{
+    position: relative;
+    top: -24px;
+    right: -739px;
+    margin-top: 8px;
+    display: inline-block;
+    padding: 0px;
+    border: 1px solid #000000;
+    float: left;
+    width: 400px; 
+ }
+
+ .orizont:last-child{
+     margin-top: 35px;
  }
