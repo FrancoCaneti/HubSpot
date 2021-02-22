@@ -105,7 +105,7 @@ body{
 
 
 .jumbotron{
-    height: 800px;
+    height: 777px;
     background-image: url(../img-hubspot/jumbotron.png);
     background-size: 1600px;
     background-repeat: no-repeat;
@@ -133,4 +133,15 @@ body{
     padding-top: 20px;
     font-size: 15px;
 }
+ /*Main*/
  
+ .container3{
+     height: 1200px;
+     background-color: aquamarine;
+ }
+
+ .cubo{
+     height:250px;
+     width: 300px;
+     margin-left:40%
+ }
