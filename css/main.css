@@ -168,7 +168,7 @@ body{
   /*Centro*/
 
   .mid{
-      height: 850px;
+      height: 1000px;
       background-color: #f5f8fa;
   }
 
@@ -243,7 +243,7 @@ body{
  .orizont:last-child{
      margin-top: 35px;
  }
-
+  /*colonne verticali*/
  .col1{
     float: left;
     width: 25%;
@@ -251,6 +251,9 @@ body{
     margin: 40px 10px 0px 175px;
     margin-bottom: 20px;
     background-color: rgb(255, 255, 255);
+    border: 1px solid #f2f6f9;
+    border-radius: 3%;
+    text-align: center;
  }
  .col2{
     float: left;
@@ -259,6 +262,9 @@ body{
     margin: 40px 20px 0px 20px;;
     margin-bottom: 20px;
     background-color: rgb(255, 255, 255);
+    border: 1px solid #f2f6f9;
+    border-radius: 3%;
+    
  }
  .col3{
     float: left;
@@ -267,4 +273,41 @@ body{
     margin:40px 0px 0 10px;
     margin-bottom: 20px;
     background-color: rgb(255, 255, 255);
+    border: 1px solid #f2f6f9;
+    border-radius: 3%;
  }
+
+.col-img{
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-bottom: 20px;
+}
+.li-col{
+    list-style: none;
+    
+}
+
+.li-col:first-child{
+    margin-top: 20px;
+
+}
+
+
+.h2-col{
+    margin-bottom: 10px;
+
+}
+.h3-col{
+    margin-bottom: 10px;
+}
+.h5-col{
+    margin-bottom: 10px;
+}
+
+.hr-col{
+    width: 160px;
+    margin-left: -635px;
+    margin-top: 55px;
+}
