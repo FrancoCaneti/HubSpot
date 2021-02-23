@@ -424,7 +424,30 @@ font-family: sans-serif;
 
 /*footer*/
 .social{
-    height: 200px;
-    background-color:#2d3e50 ;
+    height: 250px;
+    background-color:#b8c7d8 ;
     color:white;
 }
+
+.col-f{
+    height: 250px;
+    width: 20%;
+    background-color: yellowgreen;
+    float:left;
+    margin-left: 2%;
+    margin-right: 2%;
+    teax
+}
+.col-f:first-child{
+    margin-left: 65px;
+}
+.col-f:last-child{
+    margin-right: 50px;
+}
+
+.f-list{
+    list-style:none;
+    margin-bottom:10px;
+    margin-top:10px;
+}
+
