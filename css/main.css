@@ -394,6 +394,7 @@ font-family: sans-serif;
 .partners-img{
     height: 30px;
     width: 120px;
+    
 }
 /*Woman*/
 .woman{
@@ -416,9 +417,14 @@ font-family: sans-serif;
 .donna{
     position: relative;
     left: 1020px;
-    bottom: 250px;
-    width: 240px;
-    height: 300px;
+    bottom: 230px;
+    width: 230px;
+    height: 280px;
 }
 
 /*footer*/
+.social{
+    height: 200px;
+    background-color:#2d3e50 ;
+    color:white;
+}
