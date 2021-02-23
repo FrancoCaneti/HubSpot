@@ -375,7 +375,6 @@ body{
 .colonna-alta{
     float: left;
     width: 40%;
-    height: 90%;
     padding-left: 120px;
     margin-bottom: 19px;
 }
@@ -396,3 +395,30 @@ font-family: sans-serif;
     height: 30px;
     width: 120px;
 }
+/*Woman*/
+.woman{
+    height: 300px;
+    margin-left: 60px;
+}
+ .col-s {
+    height: 300px;
+    width: 40%;
+}
+
+.woman .h1-s, .h4-s {
+    margin-bottom: 28px;
+    margin-right: 50px;
+}
+.woman .h5-s{
+    margin-top: 20px;
+    margin-right: 50px;
+}
+.donna{
+    position: relative;
+    left: 1020px;
+    bottom: 250px;
+    width: 240px;
+    height: 300px;
+}
+
+/*footer*/
