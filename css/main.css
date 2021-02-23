@@ -334,7 +334,7 @@
    
    .container4 {
        height: 220px;
-       background-image: linear-gradient(to right, #03878a , #00baa6);
+       background-image: linear-gradient(to right, #00aab8 , #00bba7);
        color:white;
        text-align:center ;
    }
@@ -343,6 +343,7 @@
        font-size: 40px;
        margin-top: 0px;
        margin-bottom: 40px;
+       
    }
    .h4-cont4{
        margin-bottom: 20px;
@@ -350,7 +351,7 @@
    /**/
    .container5{
        height: 400px;
-       background-image: linear-gradient(to right, #03878a , #00baa6);
+       background-image: linear-gradient(to right, #00aab8 , #00bba7);
        color:white;
        
    }
