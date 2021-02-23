@@ -367,3 +367,32 @@ body{
     margin-top:10px ;
     font-size:15px
 }
+/*sezine bassa*/
+.partners{
+    height:200px ;
+}
+
+.colonna-alta{
+    float: left;
+    width: 40%;
+    height: 90%;
+    padding-left: 120px;
+    margin-bottom: 19px;
+}
+}
+ h4{
+margin-top: 10px;
+font-family: sans-serif;
+}
+
+ .partners .col-p{
+    float:left;
+    width: 13%;
+    height: 40%;
+    padding-top:5px
+}
+
+.partners-img{
+    height: 30px;
+    width: 120px;
+}
