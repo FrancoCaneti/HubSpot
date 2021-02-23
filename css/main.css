@@ -424,7 +424,7 @@ font-family: sans-serif;
 
 /*footer*/
 .social{
-    height: 300px;
+    height: 350px;
     background-color:#2d3e50 ;
     color:white;
 }
@@ -433,6 +433,7 @@ font-family: sans-serif;
     height: 300px;
     width: 20%;
     float:left;
+    margin-top:20px;
     margin-left: 2%;
     margin-right: 2%;
 }
@@ -468,4 +469,45 @@ font-family: sans-serif;
     display: inline-block;
     margin:80px 10px 0 10px;
     
+}
+/*countru*/
+.last{
+    height: 160px;
+    background-color: #2d3e50;
+}
+
+.country{
+    position:relative;
+    left:30%;
+    bottom:70px;
+    list-style: none;
+    display: inline-block;
+    margin:80px 10px 0 10px;
+    color:white;
+    margin-left:20px
+}
+
+.hr-footer{
+    position: relative;
+    left: 180px;
+    margin-top: 8px;
+    display: inline-block;
+    padding: 0px;
+    border: 1px solid #ffffff;
+    width: 1250px;
+}
+
+.logo-footer{
+    position: relative;
+    right: 1200px;
+}
+
+.privacy{
+    position:relative;
+    left:1200px;
+    bottom:30px;
+    margin-right: 10px;
+    color:white;
+    list-style: none;
+    display: inline-block;
 }
